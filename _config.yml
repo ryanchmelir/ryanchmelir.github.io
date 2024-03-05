@@ -49,6 +49,13 @@ google_site_verification: _Ac0n5sYslnlbwOqCtz4iZ4mjjCJVeog6645fdc6jP4
 # ↑ --------------------------
 # The end of `jekyll-seo-tag` settings
 
+# Web Analytics Settings
+analytics:
+  google:
+    id: G-T042FP794E
+  goatcounter:
+    id: ryanch
+
 google_analytics:
   id: G-T042FP794E
 
@@ -76,7 +83,7 @@ theme_mode: # [light | dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://avatars.githubusercontent.com/u/83203517?s=400&u=5b96d03f5b5b5dd014533730e3f76225f91d58bd&v=4
+avatar: https://avatars.githubusercontent.com/u/83203517
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
