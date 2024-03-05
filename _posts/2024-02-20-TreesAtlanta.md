@@ -355,7 +355,7 @@ bcr.bar_chart_race(
     filter_column_colors=True)
 ```
 
-{% include embed/youtube.html id='e8IrdrLMXx8' %}
+{% include embed/video.html src='/assets/video/projects/treesatlanta/NeighborhoodBarRace.mp4' %}
 
 > Take a look at the rapid growth of the Beltline arborterum beginning in 2017 (starts at 0:59). The increase in planting coincides with the [opening of the Beltline's Westside Trail and Eastside Trail Extension](https://beltline.org/2017/02/22/2017-the-biggest-year-yet-for-the-atlanta-beltline/)!
 {: .prompt-tip }
