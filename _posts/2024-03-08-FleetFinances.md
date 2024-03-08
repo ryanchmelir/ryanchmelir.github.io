@@ -24,7 +24,7 @@ This was a quick dashboard put together to visualize some fleet management metri
 
 ## Data Preparation
 
-This dataset was pulled from [Kaggle](https://www.kaggle.com/datasets/syednaveed05/logistics-fleet-data), and includes 5 total tables in a Dimension/Fact schema. Here is an entity relationship diagram that describes the dataset:
+This dataset was pulled from [Kaggle](https://www.kaggle.com/datasets/syednaveed05/logistics-fleet-data), and includes 3 dimension tables and 2 fact tables. Below is an entity relationship diagram I created to describe the tables and schema:
 
 ![Desktop View](/assets/img/projects/FleetFinances/diagram.png){: width="1893" height="1196" }
 
