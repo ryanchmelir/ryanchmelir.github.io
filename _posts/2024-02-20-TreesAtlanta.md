@@ -6,6 +6,7 @@ tags: [sql, tableau, GIS, python, pandas, postgres, psql, docker]
 image:
   path: https://e1.nmcdn.io/treesatl/wp-content/uploads/2019/08/treesatlanta-social-placeholder-2.jpg/v:1-width:1200-height:630-fit:cover/treesatlanta-social-placeholder-2.jpg?signature=7b26396d
   alt: Trees Atlanta Logo
+pin: true
 ---
 
 An analysis of Trees Atanta's planting locations, survival rates, and tree types.
