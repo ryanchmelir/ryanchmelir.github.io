@@ -4,7 +4,8 @@ permalink: /robots.txt
 ---
 
 User-agent: *
-
-Disallow: /norobots/
+Disallow: /tags/
+Disallow: /categories/
+Disallow: /timeline/
 
 Sitemap: {{ '/sitemap.xml' | absolute_url }}
